@@ -6,6 +6,6 @@ This portfolio contains projects that I've made during my studies/work/free-time
 * object-oriented programming
 * Funny game improvements
 ![Flappybird](/images/flappy_img2.png)
-
+</br>
 # [Project2](link)
 *
