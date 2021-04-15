@@ -7,5 +7,7 @@ This portfolio contains projects that I've made during my studies/work/free-time
 * Funny game improvements
 ![Flappybird](/images/flappy_img2.png)
 </br> <br>
-# [Project2](link)
-*
+# Smallprojects
+
+* #[Brownian Motion](https://github.com/GacinhoV33/Brownian-Motion-Simulation)
+* 
