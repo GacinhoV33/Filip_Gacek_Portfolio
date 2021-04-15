@@ -11,5 +11,6 @@ This portfolio contains projects that I've made during my studies/work/free-time
 
 * [Brownian Motion](https://github.com/GacinhoV33/Brownian-Motion-Simulation)
 ![Brownian Motion](/images/brownian.png)
+</br> <br>
 * The short simulation of brownian motions in python with using matplotlib library
 * 
