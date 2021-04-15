@@ -4,7 +4,12 @@ This portfolio contains projects that I've made during my studies/work/free-time
 # [Flappybird with using pygame library](https://github.com/GacinhoV33/flappybird)
 * Creating game with pygame library 
 * object-oriented programming
-* Funny improvements of game 
+* Funny game improvements
+![Flappybird](/images/flappy_img2.png)
+</br> <br>
+# Smallprojects
 
-# [Project2](link)
-*
+* [Brownian Motion](https://github.com/GacinhoV33/Brownian-Motion-Simulation)
+![Brownian Motion](/images/brownian.png)
+* The short simulation of brownian motions in python with using matplotlib library
+* 
