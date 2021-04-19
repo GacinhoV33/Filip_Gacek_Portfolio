@@ -16,5 +16,4 @@ This portfolio contains projects that I've made during my studies/work/free-time
 </br> <br>
 
 * [Automate downloads](https://github.com/GacinhoV33/Automate_downloads)
-</br> <br>
 * This app helps to segregate files in directories. But it's main purpose is to automaticly copy files from downloads or screenshow_folder and segregate them in specified order. That's may be unbelievably helpful for students in times of E-learning. Imagine that every screenshot you've taken is automaticly segregated into directories with name of subject and time. This app enable you to do it.
