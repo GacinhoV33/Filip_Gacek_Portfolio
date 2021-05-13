@@ -9,8 +9,8 @@ This portfolio contains projects that I've made during my studies/work/free-time
 </br> <br>
 
 # [Chess with using pygame library](https://github.com/GacinhoV33/Chess)
-*Creating chess game in pygame library
-*object-oriented programming
+* Creating chess game in pygame library
+* object-oriented programming
 
 # Smallprojects
 
