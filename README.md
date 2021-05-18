@@ -27,7 +27,7 @@ This portfolio contains projects that I've made during my studies/work/free-time
 </br> <br>
 ![OpenCV Game](/images/opencv_game.png)
 
-*Short games which uses LUT operation to show how hit or miss operation works(Morphology). 
+* Short games which uses LUT operation to show how hit or miss operation works(Morphology). 
 
 # [Project of fan in SOLIDOWRKS](https://github.com/GacinhoV33/Fan-project)
 ![Project of fan in SOLIDWORKS](/images/fan_3D_view.png)
