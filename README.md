@@ -26,6 +26,7 @@ This portfolio contains projects that I've made during my studies/work/free-time
 * [OpenCV Game](https://github.com/GacinhoV33/OpenCV-Game.git)
 </br> <br>
 ![OpenCV Game](/images/opencv_game.png)
+
 *Short games which uses LUT operation to show how hit or miss operation works(Morphology). 
 
 # [Project of fan in SOLIDOWRKS](https://github.com/GacinhoV33/Fan-project)
