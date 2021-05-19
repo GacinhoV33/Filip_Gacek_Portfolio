@@ -30,7 +30,7 @@ This portfolio contains projects that I've made during my studies/work/free-time
 * Short games which uses LUT operation to show how hit or miss operation works(Morphology). 
 
 * [Road signes detection with using neural network](https://github.com/GacinhoV33/Road-Sign-Detection/tree/main)
-* </br> <br>
+</br> <br>
 ![Road signes detection with using neural network](/images/sign_det.png)
 * Project made on laboratory of Vehicle Automatics
 * It includes teaching neural network with tenserflow library and using opencv library to present and operate on images 
