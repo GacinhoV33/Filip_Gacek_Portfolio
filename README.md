@@ -36,7 +36,7 @@ This portfolio contains projects that I've made during my studies/work/free-time
 * It includes teaching neural network with tenserflow library and using opencv library to present and operate on images 
 
 # [Data Structures](https://github.com/GacinhoV33/Data_Structures)
-* Implementation of few data structures in python
+* Few data structures implemented in python
 
 # [Project of fan in SOLIDOWRKS](https://github.com/GacinhoV33/Fan-project)
 ![Project of fan in SOLIDWORKS](/images/fan_3D_view.png)
