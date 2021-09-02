@@ -36,11 +36,12 @@ Short games which uses LUT operation to show how hit or miss operation works(Mor
 ![OpenCV Game](/images/opencv_game.png)
 
 
-* [Road signes detection with using neural network](https://github.com/GacinhoV33/Road-Sign-Detection/tree/main)
-</br> <br>
-![Road signes detection with using neural network](/images/sign_det.png)
+* [Road signes detection with using neural network](https://github.com/GacinhoV33/Road-Sign-Detection/tree/main) </br> <br>
+
 Project made on laboratory of Vehicle Automatics
 It includes training neural network with tenserflow library and using opencv library to present and operate on images 
+![Road signes detection with using neural network](/images/sign_det.png)
+
 
 # [Data Structures](https://github.com/GacinhoV33/Data_Structures)
 Few data structures implemented in python
