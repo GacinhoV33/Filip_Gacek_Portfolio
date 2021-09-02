@@ -31,10 +31,10 @@ This portfolio contains projects that I've made during my studies/work/free-time
 * This app helps to segregate files in directories. But it's main purpose is to automaticly copy files from downloads or screenshow_folder and segregate them in specified order. That's may be unbelievably helpful for students in times of E-learning. Imagine that every screenshot you've taken is automaticly segregated into directories with name of subject and time. This app enable you to do it.
 
 * [OpenCV Game](https://github.com/GacinhoV33/OpenCV-Game.git)
+* Short games which uses LUT operation to show how hit or miss operation works(Morphology). 
 </br> <br>
 ![OpenCV Game](/images/opencv_game.png)
 
-* Short games which uses LUT operation to show how hit or miss operation works(Morphology). 
 
 * [Road signes detection with using neural network](https://github.com/GacinhoV33/Road-Sign-Detection/tree/main)
 </br> <br>
