@@ -8,7 +8,14 @@ This portfolio contains projects that I've made during my studies/work/free-time
 ![Flappybird](/images/flappy_img2.png)
 </br> <br>
 
+# [VFV - Application made to edit photos](https://github.com/GacinhoV33/VFV---Vision-for-Visionaries)
+* User-friendly GUI (tkinter library)
+* Working with openCV library
+* Face Detection (soon)
+![VFV](/images/VFV.png)
+
 # [Chess with using pygame library](https://github.com/GacinhoV33/Chess)
+![Chess with using pygame library](/images/chess.png)
 * Creating chess game in pygame library
 * object-oriented programming
 
