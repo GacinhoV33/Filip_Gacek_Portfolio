@@ -14,6 +14,11 @@ This portfolio contains projects that I've made during my studies/work/free-time
 * Face Detection (soon)
 ![VFV](/images/VFV.png)
 
+# [CV Quiz](https://github.com/GacinhoV33/Quiz)
+* Using Hand Detection to move answers/questions
+* GUI made with tkinter Library
+![Quiz](/images/Quiz.png)
+
 # [Chess with using pygame library](https://github.com/GacinhoV33/Chess)
 * Creating chess game in pygame library
 * object-oriented programming
