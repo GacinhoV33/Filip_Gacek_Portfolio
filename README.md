@@ -2,15 +2,15 @@
 This portfolio contains projects that I've made during my studies/work/free-time coding. 
 
 # [Flappybird with using pygame library](https://github.com/GacinhoV33/Flappybird_normal)
-* Creating game with pygame library 
-* object-oriented programming
+* Pygame library
+* Object-Oriented Programming
 * Funny game improvements
 ![Flappybird](/images/flappy_img2.png)
 </br> <br>
 
 # [VFV - Application made to edit photos](https://github.com/GacinhoV33/VFV---Vision-for-Visionaries)
 * User-friendly GUI (tkinter library)
-* Working with openCV library
+* openCV library
 * Face Detection (soon)
 ![VFV](/images/VFV.png)
 
@@ -18,6 +18,11 @@ This portfolio contains projects that I've made during my studies/work/free-time
 * Using Hand Detection to move answers/questions
 * GUI made with tkinter Library
 ![Quiz](/images/Quiz.png)
+
+# [Voice Assitant](https://github.com/GacinhoV33/VoiceAssistant)
+* Voice recognizer based on AI 
+* Web scraping feature
+* Alexa responds made with gTTs library
 
 # [Chess with using pygame library](https://github.com/GacinhoV33/Chess)
 * Creating chess game in pygame library
@@ -39,13 +44,6 @@ The short simulation of brownian motions in python with using matplotlib library
  Short games which uses LUT operation to show how hit or miss operation works(Morphology). 
 </br> <br>
 ![OpenCV Game](/images/opencv_game.png)
-
-
-* [Road signes detection with using neural network](https://github.com/GacinhoV33/Road-Sign-Detection/tree/main)
- Project made on laboratory of Vehicle Automatics
- It includes training neural network with tenserflow library and using opencv library to present and operate on images 
-![Road signes detection with using neural network](/images/sign_det.png)
-
 
 # [Data Structures](https://github.com/GacinhoV33/Data_Structures)
  Few data structures implemented in python
