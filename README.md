@@ -19,6 +19,11 @@ This portfolio contains projects that I've made during my studies/work/free-time
 * GUI made with tkinter Library
 ![Quiz](/images/Quiz.png)
 
+# [CV Quiz 2](https://github.com/GacinhoV33/Quiz2)
+* Overlay PNG
+* ABCD version of quiz
+![Quiz 2](/images/quiz_2.png)
+
 # [Voice Assitant](https://github.com/GacinhoV33/VoiceAssistant)
 * Voice recognizer based on AI 
 * Web scraping feature
