@@ -10,9 +10,14 @@ This portfolio contains projects that I've made during my studies/work/free-time
 
 # [VFV - Application made to edit photos](https://github.com/GacinhoV33/VFV---Vision-for-Visionaries)
 * User-friendly GUI (tkinter library)
-* openCV library
+* OpenCV library
 * Face Detection (soon)
 ![VFV](/images/VFV.png)
+
+# [Planner](https://github.com/GacinhoV33/Planner)
+* Data stored in databases(sqlite3)
+* GUI Interface with tkinter
+* Automate task assigning(soon)
 
 # [CV Quiz](https://github.com/GacinhoV33/Quiz)
 * Using Hand Detection to move answers/questions
