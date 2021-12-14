@@ -8,6 +8,13 @@ This portfolio contains projects that I've made during my studies/work/free-time
 ![Flappybird](/images/flappy_img2.png)
 </br> <br>
 
+# [Dorm seats allocation problem](https://github.com/GacinhoV33/Dorm_allocation_seats_AG)
+* Implementing Genetic Algorithm to solve real life problem
+* Object-Oriented Programming
+* Writing/Reading csv files
+* WORK IN PROGRESS
+</br> <br>
+
 # [VFV - Application made to edit photos](https://github.com/GacinhoV33/VFV---Vision-for-Visionaries)
 * User-friendly GUI (tkinter library)
 * OpenCV library
