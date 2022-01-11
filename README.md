@@ -12,7 +12,7 @@ This portfolio contains projects that I've made during my studies/work/free-time
 * Implementing Genetic Algorithm to solve real life problem
 * Object-Oriented Programming
 * Writing/Reading csv files
-* WORK IN PROGRESS
+* Aumatic PDF report generating
 </br> <br>
 
 # [VFV - Application made to edit photos](https://github.com/GacinhoV33/VFV---Vision-for-Visionaries)
