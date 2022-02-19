@@ -1,12 +1,6 @@
 # Filip_Gacek_Portfolio
 This portfolio contains projects that I've made during my studies/work/free-time coding. 
 
-# [Flappybird with using pygame library](https://github.com/GacinhoV33/Flappybird_normal)
-* Pygame library
-* Object-Oriented Programming
-* Funny game improvements
-![Flappybird](/images/flappy_img2.png)
-</br> <br>
 
 # [Dorm seats allocation problem](https://github.com/GacinhoV33/Dorm_allocation_seats_AG)
 * Implementing Genetic Algorithm to solve real life problem
@@ -42,6 +36,13 @@ This portfolio contains projects that I've made during my studies/work/free-time
 * Voice recognizer based on AI 
 * Web scraping feature
 * Alexa responds made with gTTs library
+
+# [Flappybird with using pygame library](https://github.com/GacinhoV33/Flappybird_normal)
+* Pygame library
+* Object-Oriented Programming
+* Funny game improvements
+![Flappybird](/images/flappy_img2.png)
+</br> <br>
 
 # [Chess with using pygame library](https://github.com/GacinhoV33/Chess)
 * Creating chess game in pygame library
