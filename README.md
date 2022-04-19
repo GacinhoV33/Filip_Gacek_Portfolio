@@ -22,6 +22,11 @@ This portfolio contains projects that I've made during my studies/work/free-time
 * GUI Interface with tkinter
 * Automate task assigning(soon)
 
+# [Machine Learning Course](https://github.com/GacinhoV33/Machine-Learning-Course)
+* Data analysis and visualisation
+* Implementing ML algorithms 
+* Using ML models from sklearn and tensorflow
+
 # [CV Quiz](https://github.com/GacinhoV33/Quiz)
 * Using Hand Detection to move answers/questions
 * GUI made with tkinter Library
@@ -50,12 +55,6 @@ This portfolio contains projects that I've made during my studies/work/free-time
 ![Chess with using pygame library](/images/chess.png)
 
 # Smallprojects
-
-* [Brownian Motion](https://github.com/GacinhoV33/Brownian-Motion-Simulation)
-</br> <br>
-![Brownian Motion](/images/brownian.png)
-The short simulation of brownian motions in python with using matplotlib library
-</br> <br>
 
 * [Automate downloads](https://github.com/GacinhoV33/Automate_downloads)
   This app helps to segregate files in directories. But it's main purpose is to automaticly copy files from downloads or screenshow_folder and segregate them in specified order.     That's may be unbelievably helpful for students in times of E-learning. Imagine that every screenshot you've taken is automaticly segregated into directories with name of          subject and time. This app enable you to do it.
