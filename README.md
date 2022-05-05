@@ -6,7 +6,7 @@ This portfolio contains projects that I've made during my studies/work/free-time
 * Implementing Genetic Algorithm to solve real life problem
 * Object-Oriented Programming
 * Writing/Reading csv files
-* Aumatic PDF report generating
+* Automatic PDF report generating
 * ![DormGA](/images/GA_GUI.png)
 * ![DormGA](/images/GA_pdf.png)
 </br> <br>
