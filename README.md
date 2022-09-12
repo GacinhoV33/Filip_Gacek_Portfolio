@@ -22,6 +22,10 @@ This portfolio contains projects that I've made during my studies/work/free-time
 * GUI Interface with tkinter
 * Automate task assigning(soon)
 
+# [Shop with Card Items](https://github.com/GacinhoV33/Shop-with-cards/tree/main)
+* TypeScript/React
+* Drag And Drop operations implemented
+
 # [Machine Learning Course](https://github.com/GacinhoV33/Machine-Learning-Course)
 * Data analysis and visualisation
 * Implementing ML algorithms 
