@@ -53,11 +53,6 @@ This portfolio contains projects that I've made during my studies/work/free-time
 ![Flappybird](/images/flappy_img2.png)
 </br> <br>
 
-# [Chess with using pygame library](https://github.com/GacinhoV33/Chess)
-* Creating chess game in pygame library
-* object-oriented programming
-![Chess with using pygame library](/images/chess.png)
-
 # Smallprojects
 
 * [Automate downloads](https://github.com/GacinhoV33/Automate_downloads)
