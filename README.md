@@ -2,7 +2,7 @@
 This portfolio contains projects that I've made during my studies/work/free-time coding. 
 
 # [World Cup 2022 bet website](https://github.com/GacinhoV33/FootballTyper)
-* React with hooks, Typescript
+* React with functional components and hooks, Typescript
 * Google Authorization
 * API
 * +50 active users
