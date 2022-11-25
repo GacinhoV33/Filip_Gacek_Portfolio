@@ -1,6 +1,12 @@
 # Filip_Gacek_Portfolio
 This portfolio contains projects that I've made during my studies/work/free-time coding. 
 
+# [World Cup 2022 bet website](https://github.com/GacinhoV33/FootballTyper)
+* React with hooks, Typescript
+* Google Authorization
+* API
+* +50 active users
+* ![TyperBets](/images/typer_bets.png)
 
 # [Dorm seats allocation problem](https://github.com/GacinhoV33/Dorm_allocation_seats_AG)
 * Implementing Genetic Algorithm to solve real life problem
