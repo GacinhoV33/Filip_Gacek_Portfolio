@@ -13,8 +13,8 @@ This portfolio contains projects that I've made during my studies/work/free-time
 * Object-Oriented Programming
 * Writing/Reading csv files
 * Automatic PDF report generating
-* ![DormGA](/images/GA_GUI.png)
-* ![DormGA](/images/GA_pdf.png)
+![DormGA](/images/GA_GUI.png)
+![DormGA](/images/GA_pdf.png)
 </br> <br>
 
 # [VFV - Application made to edit photos](https://github.com/GacinhoV33/VFV---Vision-for-Visionaries)
