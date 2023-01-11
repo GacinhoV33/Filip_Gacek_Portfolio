@@ -2,11 +2,17 @@
 This portfolio contains projects that I've made during my studies/work/free-time coding. 
 
 # [World Cup 2022 bet website](https://github.com/GacinhoV33/FootballTyper)
-* React with functional components and hooks, Typescript
+* React with functional components and hooks
+* Typescript
 * Google Authorization
-* API
+* REST API
 * +50 active users
 ![TyperBets](/images/typer_bets.png)
+
+# [Chess Engine](https://github.com/GacinhoV33/Engineer_Thesis_Chess_Engine_With_Deep_Reinforcement_Learning)
+* Deep Reinforcement Learning
+* React&Typescript Website
+* AlphaZero Algorithm
 
 # [Dorm seats allocation problem](https://github.com/GacinhoV33/Dorm_allocation_seats_AG)
 * Implementing Genetic Algorithm to solve real life problem
