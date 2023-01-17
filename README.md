@@ -7,6 +7,7 @@ This portfolio contains projects that I've made during my studies/work/free-time
 * Google Authorization
 * REST API
 * +50 active users
+
 ![TyperBets](/images/typer_bets.png)
 
 # [Chess Engine](https://github.com/GacinhoV33/Engineer_Thesis_Chess_Engine_With_Deep_Reinforcement_Learning)
@@ -30,6 +31,7 @@ This portfolio contains projects that I've made during my studies/work/free-time
 # [VFV - Application made to edit photos](https://github.com/GacinhoV33/VFV---Vision-for-Visionaries)
 * GUI made in tkinter library
 * OpenCV library and algorithms
+
 ![VFV](/images/VFV.png)
 
 # [Planner](https://github.com/GacinhoV33/Planner)
@@ -49,6 +51,7 @@ This portfolio contains projects that I've made during my studies/work/free-time
 # [CV Quiz](https://github.com/GacinhoV33/Quiz)
 * Using Hand Detection to move answers/questions
 * GUI made with tkinter Library
+
 ![Quiz](/images/Quiz.png)
 
 # [Voice Assitant](https://github.com/GacinhoV33/VoiceAssistant)
