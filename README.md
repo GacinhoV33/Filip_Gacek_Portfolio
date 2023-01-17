@@ -23,7 +23,6 @@ This portfolio contains projects that I've made during my studies/work/free-time
 * Object-Oriented Programming
 * Writing/Reading csv files
 * Automatic PDF report generating
-![DormGA](/images/GA_GUI.png)
 ![DormGA](/images/GA_pdf.png)
 </br> <br>
 
