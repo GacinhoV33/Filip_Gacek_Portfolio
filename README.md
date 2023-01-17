@@ -14,6 +14,10 @@ This portfolio contains projects that I've made during my studies/work/free-time
 * React&Typescript Website
 * AlphaZero Algorithm
 
+# [Admin Dashboard](https://github.com/GacinhoV33/Dashboard-for-Admin)
+* React.js/Javascript/HTML5 & SASS
+* MUI, Data-Grid, FullCalendar, Nivo charts
+
 # [Dorm seats allocation problem](https://github.com/GacinhoV33/Dorm_allocation_seats_AG)
 * Implementing Genetic Algorithm to solve real life problem
 * Object-Oriented Programming
