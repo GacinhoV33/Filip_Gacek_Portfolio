@@ -24,13 +24,13 @@ This portfolio contains projects that I've made during my studies/work/free-time
 * Azure Deployment
 * MUI Core, Typescript, React, HTML, CSS, SASS
 * You can check website at https://ride4fun.pl 
-* 
+
 ![Ride4Fun](/images/ride4fun.png)
 
 # [Admin Dashboard](https://github.com/GacinhoV33/Dashboard-for-Admin)
 * React.js/Javascript/HTML5 & SASS
 * MUI, Data-Grid, FullCalendar, Nivo charts
-* 
+ 
 ![Admin-Dashboard](/images/dashboard-admin.png)
 
 # [Dorm seats allocation problem](https://github.com/GacinhoV33/Dorm_allocation_seats_AG)
