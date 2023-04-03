@@ -24,11 +24,13 @@ This portfolio contains projects that I've made during my studies/work/free-time
 * Azure Deployment
 * MUI Core, Typescript, React, HTML, CSS, SASS
 * You can check website at https://ride4fun.pl 
+* 
 ![Ride4Fun](/images/ride4fun.png)
 
 # [Admin Dashboard](https://github.com/GacinhoV33/Dashboard-for-Admin)
 * React.js/Javascript/HTML5 & SASS
 * MUI, Data-Grid, FullCalendar, Nivo charts
+* 
 ![Admin-Dashboard](/images/dashboard-admin.png)
 
 # [Dorm seats allocation problem](https://github.com/GacinhoV33/Dorm_allocation_seats_AG)
@@ -54,11 +56,6 @@ This portfolio contains projects that I've made during my studies/work/free-time
 # [Shop with Card Items](https://github.com/GacinhoV33/Shop-with-cards/tree/main)
 * TypeScript/React
 * Drag And Drop operations implemented
-
-# [Machine Learning Course](https://github.com/GacinhoV33/Machine-Learning-Course)
-* Data analysis and visualisation
-* Implementing ML algorithms 
-* Using ML models from sklearn and tensorflow
 
 # [CV Quiz](https://github.com/GacinhoV33/Quiz)
 * Using Hand Detection to move answers/questions
