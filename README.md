@@ -18,11 +18,12 @@ This portfolio contains projects that I've made during my studies/work/free-time
 * React&Typescript Website
 * AlphaZero Algorithm
 
-#[Website for Ride4Fun organization](https://github.com/GacinhoV33/Ride4Fun)
+# [Website for Ride4Fun organization](https://github.com/GacinhoV33/Ride4Fun)
 * Design and Coding
 * Hosting and website management
 * Azure Deployment
 * MUI Core, Typescript, React, HTML, CSS, SASS
+* You can check website at https://ride4fun.pl 
 ![Ride4Fun](/images/ride4fun.png)
 
 # [Admin Dashboard](https://github.com/GacinhoV33/Dashboard-for-Admin)
