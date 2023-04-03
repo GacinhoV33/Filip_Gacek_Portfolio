@@ -52,10 +52,6 @@ This portfolio contains projects that I've made during my studies/work/free-time
 * GUI Interface with tkinter
 * Automate task assigning(soon)
 
-# [Shop with Card Items](https://github.com/GacinhoV33/Shop-with-cards/tree/main)
-* TypeScript/React
-* Drag And Drop operations implemented
-
 # [CV Quiz](https://github.com/GacinhoV33/Quiz)
 * Using Hand Detection to move answers/questions
 * GUI made with tkinter Library
