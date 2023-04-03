@@ -9,6 +9,7 @@ This portfolio contains projects that I've made during my studies/work/free-time
 * Databases
 * Azure CI/CD
 * +50 active users
+* You can find it at https://typer2022.azurewebsites.net/
 
 ![TyperBets](/images/typer_bets.png)
 
@@ -17,6 +18,7 @@ This portfolio contains projects that I've made during my studies/work/free-time
 * Deep Reinforcement Learning
 * React&Typescript Website
 * AlphaZero Algorithm
+* You can find it at https://chess-dev-app.azurewebsites.net/
 
 # [Website for Ride4Fun organization](https://github.com/GacinhoV33/Ride4Fun)
 * Design and Coding
@@ -29,6 +31,7 @@ This portfolio contains projects that I've made during my studies/work/free-time
 # [Admin Dashboard](https://github.com/GacinhoV33/Dashboard-for-Admin)
 * React.js/Javascript/HTML5 & SASS
 * MUI, Data-Grid, FullCalendar, Nivo charts
+* You can find it at https://admin-dashboard.azurewebsites.net/
  
 ![Admin-Dashboard](/images/dashboard-admin.png)
 
