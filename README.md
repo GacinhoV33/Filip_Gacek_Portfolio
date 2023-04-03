@@ -6,6 +6,8 @@ This portfolio contains projects that I've made during my studies/work/free-time
 * Typescript
 * Google Authorization
 * REST API
+* Databases
+* Azure CI/CD
 * +50 active users
 
 ![TyperBets](/images/typer_bets.png)
