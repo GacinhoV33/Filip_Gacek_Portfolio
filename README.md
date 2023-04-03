@@ -21,7 +21,6 @@ This portfolio contains projects that I've made during my studies/work/free-time
 # [Website for Ride4Fun organization](https://github.com/GacinhoV33/Ride4Fun)
 * Design and Coding
 * Hosting and website management
-* Azure Deployment
 * MUI Core, Typescript, React, HTML, CSS, SASS
 * You can check website at https://ride4fun.pl 
 
