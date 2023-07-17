@@ -13,6 +13,12 @@ This portfolio contains projects that I've made during my studies/work/free-time
 
 ![TyperBets](/images/typer_bets.png)
 
+# [Personalized Comics Generation](https://github.com/GacinhoV33/personalized-comics)
+* Generative AI
+* OpenAI API
+* Dreambooth technique of fine-tunning Stable Diffusion model
+* Python/Jupter Notebook
+
 # [Chess Engine](https://github.com/GacinhoV33/Engineer_Thesis_Chess_Engine_With_Deep_Reinforcement_Learning)
 * This project contains results of my Bachelor's Thesis
 * Deep Reinforcement Learning
